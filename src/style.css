@@ -1,1 +1,17 @@
 /* styles go here */
+/*.input {*/
+/*  margin: 0px 0;*/
+/*}*/
+
+.block__input {
+  display: block;
+  margin-bottom: 10px;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+.block__input:last-child {
+  margin-bottom: 0;
+}
