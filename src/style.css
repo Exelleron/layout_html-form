@@ -1,14 +1,9 @@
-/* styles go here */
-/*.input {*/
-/*  margin: 0px 0;*/
-/*}*/
-
 .block__input {
   display: block;
   margin-bottom: 10px;
 }
 
-fieldset {
+.fieldsets {
   margin-bottom: 20px;
 }
 
